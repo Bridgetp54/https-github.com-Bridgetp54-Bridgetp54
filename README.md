@@ -10,13 +10,13 @@ _SKILLS AND CERTIFICATIONS_
 •	Template Design & Creation
 •	Resourceful Learner/Self-governing 
 
-Project Management for Development Professionals (Online Course) Project D Pro Certificate of Completion, offered through Humentum (07/15/2024)
-Registered Scrum Master	Scrum Inc. & Dr. Jeff Sutherland, ID#RSM-9770473 (valid 11/28/22-11/28/25)
-Registered Product Owner	Scrum Inc. & Dr. Jeff Sutherland, ID#RSM-6425483 (valid 11/28/22-11/28/25)
-Fundamentals of Technical Writing (Online Course, 24 hours of professional training)	Earned certificate from the University of Waterloo, (11/28/2022)
-Lean Six Sigma Yellow Belt 	NC Department of Health and Human Services, Department of IT (07/20/2022)
-Become a Technical Writer, (Online Course)	Earned certificate in an intensive "boot-camp" style course. Configured/used Snagit, Canva, Confluence, Salesforce, and customized Microsoft Word template (2/17/2022)
-Certified Professional Technical Communicator	Society for Technical Communication, (09/24/2019; renews every two Years) 
+**Project Management for Development Professionals** (Online Course) Project D Pro Certificate of Completion, offered through Humentum (07/15/2024)
+**Registered Scrum Master**	Scrum Inc. & Dr. Jeff Sutherland, ID#RSM-9770473 (valid 11/28/22-11/28/25)
+**Registered Product Owner**	Scrum Inc. & Dr. Jeff Sutherland, ID#RSM-6425483 (valid 11/28/22-11/28/25)
+**Fundamentals of Technical Writing** (Online Course, 24 hours of professional training)	Earned certificate from the University of Waterloo, (11/28/2022)
+**Lean Six Sigma Yellow Bel**t 	NC Department of Health and Human Services, Department of IT (07/20/2022)
+**Become a Technical Writer**, (Online Course)	Earned certificate in an intensive "boot-camp" style course. Configured/used Snagit, Canva, Confluence, Salesforce, and customized Microsoft Word template (2/17/2022)
+**Certified Professional Technical Communicator**	Society for Technical Communication, (09/24/2019; renews every two Years) 
 
 _EDUCATION_
 
