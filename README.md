@@ -1,4 +1,4 @@
-Intro to Bridget F Potter, Certified Professional Technical Communicator
+Bridget F Potter, Certified Professional Technical Communicator
 
 _SKILLS AND CERTIFICATIONS_
 
